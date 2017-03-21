@@ -3,6 +3,8 @@ title: Strata # Title of your site
 url: "https://ludovicvigneron.github.io/" # the base hostname & protocol for your site
 baseurl: /test2/ # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
+ source: .
+  destination: ./_site
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
