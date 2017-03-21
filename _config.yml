@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://ludovicvigneron.github.io" # the base hostname & protocol for your site
 baseurl: /blog
 google_analytics_key: ""
 
