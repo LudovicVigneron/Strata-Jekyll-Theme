@@ -1,7 +1,7 @@
 locale: "en-US"
 title: Economet_tricks # Title of your site
-url: "https://github.com/LudovicVigneron/" # the base hostname & protocol for your site
-baseurl:/test2/
+url: "https://github.com/LudovicVigneron/test2" # the base hostname & protocol for your site
+baseurl: 
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
